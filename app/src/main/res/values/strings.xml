@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pelican TabLog</string>
+    <string name="title_activity_maps">Pelican TabLog</string>
+    <string name="submit_location">Log Entry</string>
+    <string name="transmit_msg">Transmit</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="timestamp">Timestamp:</string>
+</resources>
